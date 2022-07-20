@@ -1,0 +1,10 @@
+[INFO ] 2022-06-15 00:07:00.008 [main] getUserTest - requestBuilder.GetUser@4aa2877c
+[INFO ] 2022-06-15 00:08:04.183 [main] getUserTest - requestBuilder.GetUser@6d672bd4
+[INFO ] 2022-06-15 00:13:12.365 [main] getUserTest - requestBuilder.GetUser@4f379769
+[INFO ] 2022-06-15 00:14:27.355 [main] GetUser - io.restassured.internal.RestAssuredResponseImpl@1f84327b
+[INFO ] 2022-06-15 00:15:21.059 [main] CreateUser - io.restassured.internal.RestAssuredResponseImpl@4b55ff0a
+[INFO ] 2022-06-15 00:15:55.711 [main] CreateUser - io.restassured.internal.RestAssuredResponseImpl@799f916e
+[INFO ] 2022-06-15 00:29:11.232 [main] CreateUser - io.restassured.internal.RestAssuredResponseImpl@24043ec5
+[INFO ] 2022-06-15 00:37:39.860 [main] CreateUser - Vaibhav
+[INFO ] 2022-06-15 00:46:08.407 [main] createUserTest - requestBuilder.CreateUser@3b24087d
+[INFO ] 2022-06-15 10:01:01.683 [main] createUserTest - CreateUserResponse{id=3076, name='Wkckb', email='Wkckb@gmail.com', gender='male', status='active'}
